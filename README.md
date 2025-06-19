@@ -1,0 +1,1 @@
+CleanseText is a modern, AI-powered web application that helps users improve their writing through Grammar Correction, Paraphrasing, and Summarization tools. Users can upload .pdf or .docx documents and receive clean, readable and AI-refined text.
