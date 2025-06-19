@@ -1,0 +1,25 @@
+# === Global ignores ===
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+*.pyc
+__pycache__/
+
+# === Next.js ignores (frontend) ===
+/frontend/.next/
+/frontend/node_modules/
+/frontend/out/
+
+# === Django ignores (backend) ===
+/backend/db.sqlite3
+/backend/staticfiles/
+/backend/media/
+/backend/venv/
+/backend/*.pyc
+/backend/__pycache__/
+/backend/*.sqlite3
+
+# VSCode and OS-specific
+.vscode/
